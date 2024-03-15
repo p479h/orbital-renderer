@@ -1,0 +1,13 @@
+{
+	"+": {
+		"Base Color": "6AB0F4"
+	},
+	"-": {
+		"Base Color": "E2AD56"
+	},
+	"+-":{
+		"Specular": 0.2,
+		"IOR": 1.0,
+		"Roughness": 0.0
+	}
+}
