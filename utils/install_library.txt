@@ -1,0 +1,6 @@
+To install a pyhton library, go to blenders' python installation folder 
+with cmd in admin mode. Then type:
+
+python -m pip install <module>
+
+directory is: C:\Program Files\Blender Foundation\Blender 3.2\3.2\python\bin
