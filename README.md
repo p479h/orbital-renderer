@@ -1,1 +1,1 @@
-Improved version of orbital-renderer-legacy. This version has better coding practices, but is by no means perfect. The main purpose of this library is to render molecules and atheir atomic/molecular orbitals in blender.
+Improved version of orbital-renderer-legacy. This version has better coding practices, but is by no means perfect. The main purpose of this library is to render molecules and atheir atomic/molecular orbitals in blender. These scripts were developed to make [this](https://www.youtube.com/watch?v=aMD2k4EJZ4c) video for Dr. Ir. Ivo Filot.
